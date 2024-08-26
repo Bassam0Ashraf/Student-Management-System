@@ -1,5 +1,5 @@
 # Student-Management-System
-Project name:Student Management System.
+Project Name:Student Management System.
 
 Description:
 This system allow for user to Manage the students infromation by there name,ID,age and GPA, and user can choose from these function below to handle the information of students:
