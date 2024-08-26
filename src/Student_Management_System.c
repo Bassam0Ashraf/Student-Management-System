@@ -1,19 +1,9 @@
-/*
- * Main.c
- *
- *  Created on: Aug 14, 2024
- *      Author: Bassam Ashraf
- */
-
 /* Include the library and header file to able to call function that we declare. */
 #include <stdio.h>
 #include "Functions_Prototypes.h"
 
 int main(void)
 {
-	setvbuf(stdout, NULL, _IONBF, 0);
-	setvbuf(stderr, NULL, _IONBF, 0);
-
 	/* Loop to displays the menu options to the user. */
 	for(;;)
 	{
