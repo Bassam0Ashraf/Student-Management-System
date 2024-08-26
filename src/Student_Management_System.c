@@ -4,9 +4,6 @@
 
 int main(void)
 {
-	setvbuf(stdout, NULL, _IONBF, 0);
-	setvbuf(stderr, NULL, _IONBF, 0);
-
 	/* Loop to displays the menu options to the user. */
 	for(;;)
 	{
